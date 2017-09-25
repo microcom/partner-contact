@@ -22,7 +22,7 @@
         'views/base_config_view.xml',
         'views/res_partner.xml',
         'views/res_user.xml',
-        'data/res_partner.yml',
+        # 'data/res_partner.yml',
     ],
     'demo': [],
     'test': [],
